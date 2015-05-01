@@ -4,5 +4,6 @@
 
 ### Run
 
+    cd <your-directory-where-html-and-css-is-there>
     http-server .
 
